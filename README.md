@@ -13,6 +13,10 @@ Try it out [here](https://drake7707.github.io/dwarvenanno/index.html)
 
 ![Screenshot](https://i.imgur.com/6cWGjPQ.png])
 
+## Class diagram
+
+![Class diagram](https://i.imgur.com/N5At9rR.png)
+
 ## Running locally
 
 I used VSCode, which has built in typescript support. To debug it uses a tiny webserver to host the files on localhost. 
